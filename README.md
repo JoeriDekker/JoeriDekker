@@ -1,14 +1,28 @@
-<h1 align="center">Hi 👋, I'm Joeri</h1>
+<h1 align="center">Joeri's Github Page</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joeridekker&label=Profile%20views&color=0e75b6&style=flat" alt="joeridekker" /> </p>
+
+<h2>About me</h2>
+<p>Hi, I'm Joeri!</p>
+<p>I'm a 22-year old developer with a passion for programming. I have experience in both frontend and backend development, with a strong preference for backend projects. I'm currently looking for a graduation internship where I can contribute to challenging projects and further develop my skills as a developer.</p>
 
 <h2>Recent projects</h2>
 <p>The Cat's Away</p>
 <p>https://berry-cool-games.itch.io/the-cats-away</p>
 
 <h2>Intrests</h2>
-<p>- Back-end programming</p>
-<p>- Learning</p>
-<p>- Gaming</p>
+<ul>
+  <li>Back-end programming</li>
+  <li>Learning</li>
+  <li>Gaming</li>
+</ul>
+
+<h2>Currently Learning</h2>
+<p>I'm currently working on a 3D game built with Unity, where I'm learning and improving my skills in:</p>
+<ul>
+  <li>Game design</li>
+  <li>Unity development</li>
+  <li>Marketing and project promotion</li>
+</ul>
 
 <p align="left">
   <a href="https://linkedin.com/in/joeri dekker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joeri dekker" height="30" width="40" /></a>
