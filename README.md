@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Joeri</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joeridekker&label=Profile%20views&color=0e75b6&style=flat" alt="joeridekker" /> </p>
 
+<h2>Recent projects</h2>
+<p>The Cat's Away</p>
+<p>https://berry-cool-games.itch.io/the-cats-away</p>
+
+<h2>Intrests</h2>
+<p>- Back-end programming</p>
+<p>- Learning</p>
+<p>- Gaming</p>
 
 <p align="left">
   <a href="https://linkedin.com/in/joeri dekker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joeri dekker" height="30" width="40" /></a>
